@@ -1,0 +1,9 @@
+*.pdf
+*.html
+*~
+
+compiled
+scribble-common.js
+scribble-style.css
+scribble.css
+
